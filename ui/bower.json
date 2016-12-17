@@ -1,0 +1,23 @@
+{
+  "name": "ui",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rhonda Impey <rhondaimpey@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Parallax"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.5"
+  }
+}
